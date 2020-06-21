@@ -1,3 +1,4 @@
+=begin
 require 'test_helper'
 
 class OrderMailerTest < ActionMailer::TestCase
@@ -19,3 +20,4 @@ class OrderMailerTest < ActionMailer::TestCase
   end
 
 end
+=end
