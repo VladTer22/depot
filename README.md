@@ -1,24 +1,8 @@
-# README
+Learning app created with book "Agile web development with Rails 6"
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
-
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+Was created:
+1. Product list with validation and tests.
+2. Front-end catalog with partials.
+3. Product cart with creating and dynamic updating.
+4. Dynamic payments with React.
+5. Two language localization.
